@@ -1,8 +1,8 @@
 # Hi 👋 I'm Nikhil Prasanth
 
-🚀 Full Stack Developer  
-💻 Building scalable web & AI applications  
-🌱 Learning advanced backend systems  
+ Full Stack Developer  
+ Building scalable web & AI applications  
+ Learning advanced backend systems  
 
 ---
 
