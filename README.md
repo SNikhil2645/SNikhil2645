@@ -1,10 +1,19 @@
-<p align="center">
-  <img src="banner-header.png" alt="Hi, I'm Nikhil Prasanth" width="100%" />
-</p>
+<div align="center">
 
-<h3 align="center"><b>BCA Student (2024–2027) · Aspiring Data Analyst · Full-Stack Developer · Cloud &amp; Security Learner</b></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=2c5364&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nikhil+Prasanth;Full-Stack+Developer+%7C+Data+Enthusiast" alt="Hi, I'm Nikhil Prasanth" />
 
-<p align="center"><i>Building real-world projects, exploring cloud &amp; data, and turning ideas into working products.</i></p>
+<br/>
+
+![BCA Student](https://img.shields.io/badge/BCA_2024%E2%80%932027-0d1117?style=for-the-badge&labelColor=203a43)
+![Aspiring Data Analyst](https://img.shields.io/badge/Data_Analyst-0d1117?style=for-the-badge&labelColor=2c5364)
+![Full-Stack Developer](https://img.shields.io/badge/Full_Stack-0d1117?style=for-the-badge&labelColor=203a43)
+![Cloud Learner](https://img.shields.io/badge/Cloud_%26_Security-0d1117?style=for-the-badge&labelColor=2c5364)
+
+<br/>
+
+*Building real-world projects, exploring cloud & data, and turning ideas into working products.*
+
+</div>
 
 <br/>
 
@@ -132,7 +141,7 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 ---
 
 <p align="center">
-  <img src="banner-footer.png" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=120&section=footer&animation=twinkle" alt="footer" width="100%" />
 </p>
 
 <p align="center"><i>"Learning by building, one project at a time."</i></p>
