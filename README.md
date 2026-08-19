@@ -1,34 +1,12 @@
-<h1 align="center">Hi, I'm Nikhil 👋</h1>
-
-<p align="center">
-  <i>BCA Student (2024–2027) · Aspiring Data Analyst · Full-Stack Developer · Cloud &amp; Security Learner</i>
-</p>
-
-<p align="center">
-  <i>Building real-world projects, exploring cloud &amp; data, and turning ideas into working products.</i>
-</p>
-
 <p align="center">
   <a href="https://github.com/SNikhil2645">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nikhil-prasanth-sidagam">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nikhil@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nikhil%20Prasanth%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" alt="banner" />
   </a>
 </p>
 
-<br/>
+<h3 align="center"><b>BCA Student (2024–2027) · Aspiring Data Analyst · Full-Stack Developer · Cloud &amp; Security Learner</b></h3>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   "I don't just write code — I build things that work."     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<p align="center"><i>Building real-world projects, exploring cloud &amp; data, and turning ideas into working products.</i></p>
 
 <br/>
 
@@ -43,8 +21,6 @@
 | **Cloud & DevOps** | AWS fundamentals, Linux, CI/CD basics |
 | **Mobile** | Kotlin, Jetpack Compose, Android native |
 
-<br/>
-
 ---
 
 ## 🔥 Featured Projects
@@ -54,54 +30,47 @@
 <td width="50%">
 
 ### CINCO Quiz Portal
+
 `React` `Vite` `Node.js` `Socket.IO` `MongoDB`
 
 Real-time multiplayer quiz platform — streaks, power-ups, live leaderboards, glassmorphism UI. Full WebSocket sync across players.
 
-🔗 **[Live Demo](https://cinco-quiz.vercel.app)**
+**[Live Demo](https://cinco-quiz.vercel.app)**
 
 </td>
 <td width="50%">
 
 ### Studio Kārya
+
 `HTML` `CSS` `JavaScript`
 
 Hackathon-winning portfolio site. Clean design, smooth scroll animations, responsive layout. Built from scratch under time pressure.
 
-🔗 **[Live Site](https://snikhil2645.github.io)**
+**[Live Site](https://snikhil2645.github.io)**
 
 </td>
 </tr>
 <tr>
 <td>
 
-
-
 ### SafaPix
+
 `Python`
 
 AI-powered image processing and enhancement tool. Noise reduction, color correction, and upscaling pipeline.
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### Shadow Bot
+
 `Python`
 
 Discord automation bot — moderation, utility commands, event handling. Designed for community server management.
 
 </td>
-<td>
-
-<sub><i>More projects coming soon — always building.</i></sub>
-
-</td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -131,8 +100,6 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 </div>
 
-<br/>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -147,8 +114,6 @@ Discord automation bot — moderation, utility commands, event handling. Designe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNikhil2645&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" />
 </p>
 
-<br/>
-
 ---
 
 ## 🏆 Achievements
@@ -157,44 +122,19 @@ Discord automation bot — moderation, utility commands, event handling. Designe
   <img src="https://github-profile-trophy.vercel.app/?username=SNikhil2645&theme=tokyonight&no-frame=true&row=1&column=6&bg_color=0d1117" />
 </p>
 
-<br/>
+---
+
+## 📚 Currently Learning
+
+> **AWS Cloud Practitioner** — Exam prep & hands-on labs
+> **Power BI / Data Visualization** — Tata Forage consulting program
+> **Full-Stack with Prisma** — ORM, migrations, PostgreSQL
+> **Android with Jetpack Compose** — Kotlin, Material Design 3
 
 ---
 
-## 📚 What I'm Learning Now
-
-```
-> AWS Cloud Practitioner          → Exam prep, hands-on labs
-> Power BI / Data Visualization   → Tata Forage consulting program  
-> Full-Stack with Prisma          → ORM, migrations, PostgreSQL
-> Android with Jetpack Compose    → Kotlin, Material Design 3
-```
-
-<br/>
-
----
-
-## 🧠 How I Think
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Problem  →  Research  →  Prototype  →  Refine         │
-│                                                         │
-│   I learn by building. Every project is a lesson.       │
-│   Every bug is a teacher. Every deploy is a milestone.  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
+<p align="center"><i>"Learning by building, one project at a time."</i></p>
 
 <p align="center">
-  <i>"Learning by building, one project at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SNikhil2645&color=2c5364&style=flat-square&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=SNikhil2645&color=2c5364&style=flat-square&label=Profile+Views" />
 </p>
