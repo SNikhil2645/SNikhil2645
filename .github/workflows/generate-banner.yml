@@ -1,0 +1,37 @@
+name: Generate Banner
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/generate-banner.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin imagemagick
+
+      - name: Download header banner
+        run: |
+          curl -sL "https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Nikhil%20Prasanth&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" -o banner-header.svg
+          rsvg-convert -w 1200 banner-header.svg -o banner-header.png
+
+      - name: Download footer banner
+        run: |
+          curl -sL "https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=120&section=footer&animation=twinkle" -o banner-footer.svg
+          rsvg-convert -w 1200 banner-footer.svg -o banner-footer.png
+
+      - name: Commit banners
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add banner-header.png banner-footer.png
+          git diff --staged --quiet || git commit -m "Update profile banners" && git push
