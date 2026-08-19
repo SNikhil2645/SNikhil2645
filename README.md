@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SNikhil2645">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nikhil%20Prasanth%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" alt="banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nikhil%20Prasanth%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Hi, I'm Nikhil Prasanth" width="100%" />
 </p>
 
 <h3 align="center"><b>BCA Student (2024–2027) · Aspiring Data Analyst · Full-Stack Developer · Cloud &amp; Security Learner</b></h3>
@@ -12,7 +10,7 @@
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
 | Domain | Focus |
 |--------|-------|
@@ -23,7 +21,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -74,7 +72,7 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -102,7 +100,7 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SNikhil2645&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
@@ -116,7 +114,7 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SNikhil2645&theme=tokyonight&no-frame=true&row=1&column=6&bg_color=0d1117" />
@@ -124,7 +122,7 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 > **AWS Cloud Practitioner** — Exam prep & hands-on labs
 > **Power BI / Data Visualization** — Tata Forage consulting program
