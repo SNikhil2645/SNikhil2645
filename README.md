@@ -75,13 +75,7 @@ Hackathon-winning portfolio site. Clean design, smooth scroll animations, respon
 <tr>
 <td>
 
-### Axis Studio
-`Kotlin` `PostgreSQL` `Express`
 
-Full-stack studio management app — authentication, scheduling, data persistence. RESTful API with relational database.
-
-</td>
-<td>
 
 ### SafaPix
 `Python`
