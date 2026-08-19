@@ -1,15 +1,15 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117, #203a43, #2c5364); padding: 40px 20px; border-radius: 12px; margin-bottom: 24px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=2c5364&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nikhil+Prasanth;Full-Stack+Developer+%7C+Data+Enthusiast" alt="Hi, I'm Nikhil Prasanth" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi%2C+I'm+Nikhil+Prasanth;Full-Stack+Developer+%7C+Data+Enthusiast" alt="Hi, I'm Nikhil Prasanth" />
 
-<br/>
+<br/><br/>
 
-![BCA Student](https://img.shields.io/badge/BCA_2024%E2%80%932027-0d1117?style=for-the-badge&labelColor=203a43)
-![Aspiring Data Analyst](https://img.shields.io/badge/Data_Analyst-0d1117?style=for-the-badge&labelColor=2c5364)
-![Full-Stack Developer](https://img.shields.io/badge/Full_Stack-0d1117?style=for-the-badge&labelColor=203a43)
-![Cloud Learner](https://img.shields.io/badge/Cloud_%26_Security-0d1117?style=for-the-badge&labelColor=2c5364)
+![BCA Student](https://img.shields.io/badge/BCA_2024%E2%80%932027-ffffff?style=for-the-badge&labelColor=203a43)
+![Aspiring Data Analyst](https://img.shields.io/badge/Data_Analyst-ffffff?style=for-the-badge&labelColor=2c5364)
+![Full-Stack Developer](https://img.shields.io/badge/Full_Stack-ffffff?style=for-the-badge&labelColor=203a43)
+![Cloud Learner](https://img.shields.io/badge/Cloud_%26_Security-ffffff?style=for-the-badge&labelColor=2c5364)
 
-<br/>
+<br/><br/>
 
 *Building real-world projects, exploring cloud & data, and turning ideas into working products.*
 
