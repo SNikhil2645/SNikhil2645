@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nikhil%20Prasanth%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Hi, I'm Nikhil Prasanth" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Nikhil%20Prasanth&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Hi, I'm Nikhil Prasanth" width="100%" />
 </p>
 
 <h3 align="center"><b>BCA Student (2024–2027) · Aspiring Data Analyst · Full-Stack Developer · Cloud &amp; Security Learner</b></h3>
@@ -130,6 +130,10 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 > **Android with Jetpack Compose** — Kotlin, Material Design 3
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=120&section=footer&animation=twinkle" alt="footer" width="100%" />
+</p>
 
 <p align="center"><i>"Learning by building, one project at a time."</i></p>
 
