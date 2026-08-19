@@ -140,10 +140,6 @@ Discord automation bot — moderation, utility commands, event handling. Designe
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=120&section=footer&animation=twinkle" alt="footer" width="100%" />
-</p>
-
 <p align="center"><i>"Learning by building, one project at a time."</i></p>
 
 <p align="center">
